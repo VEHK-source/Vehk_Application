@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Vehk_Application",
+    "slug": "Vehk_Application",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Vehk_Application"
+}
